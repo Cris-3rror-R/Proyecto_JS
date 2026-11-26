@@ -1,2 +1,2 @@
-# Frontend
-Practicas relacionadas con el área de Frontend desde HTML, JavaScript hasta Node.js/Next.js
+# Proyecto_JS
+Proyecto recopilatorio de todo el conocimiento adquirido sobre JavaScript, CSS y HMTL
